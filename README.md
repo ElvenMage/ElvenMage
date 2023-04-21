@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @ElvenMage
-I'm learning C++
-
-I want to be a developer and i work hard for it.
-
-
-:)
+Javascript | TypeScript | C++ | Python | MongoDB | SQL | MySQL | Next.js
